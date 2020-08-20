@@ -10,6 +10,7 @@
   "dependencies": {
     "fast-xml-parser": "^3.17.4",
     "he": "^1.2.0",
+    "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
